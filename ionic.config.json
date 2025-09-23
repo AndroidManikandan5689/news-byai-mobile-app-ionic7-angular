@@ -1,0 +1,7 @@
+{
+  "name": "NewsWithAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
